@@ -1,0 +1,7 @@
+:root {
+    --txt_wait: #999999;
+}
+
+select > option:first-child {
+    color: var(--txt_wait);
+}
